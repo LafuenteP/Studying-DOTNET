@@ -1,0 +1,14 @@
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\bin\Debug\net8.0\Studying-DotNet.exe
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\bin\Debug\net8.0\Studying-DotNet.deps.json
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\bin\Debug\net8.0\Studying-DotNet.runtimeconfig.json
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\bin\Debug\net8.0\Studying-DotNet.dll
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\bin\Debug\net8.0\Studying-DotNet.pdb
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.AssemblyInfoInputs.cache
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.AssemblyInfo.cs
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.csproj.CoreCompileInputs.cache
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.dll
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\refint\Studying-DotNet.dll
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.pdb
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.genruntimeconfig.cache
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\ref\Studying-DotNet.dll
