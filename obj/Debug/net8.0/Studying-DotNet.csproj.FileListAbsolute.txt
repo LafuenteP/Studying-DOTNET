@@ -12,3 +12,4 @@ C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\refint\Study
 C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.pdb
 C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.genruntimeconfig.cache
 C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\ref\Studying-DotNet.dll
+C:\Users\gilva\OneDrive\Documentos\Studying-DotNet\obj\Debug\net8.0\Studying-DotNet.sourcelink.json
